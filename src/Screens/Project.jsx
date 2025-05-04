@@ -7,16 +7,16 @@ import LottieAnimationCard from "../Components/Cards/LottieAnimationCard";
 import { ProjectAnimation } from "../Assets/AssetsList";
 
 const Project = () => {
-  const Labels = ["All", "Client", "Personal"];
+  // const Labels = ["All", "Client", "Personal"];
   // const [activeLabel, setActiveLabel] = useState(Labels[0]);
   const [projects, setProjects] = useState(ProjectList);
   const ref = useRef(null);
   const isInView = useInView(ref);
-  const options = {
-    personal: ProjectList.filter((project) => !project.clientDemoLink),
-    all: ProjectList,
-    client: ProjectList.filter((project) => project.clientDemoLink),
-  };
+  // // const options = {
+  //   personal: ProjectList.filter((project) => !project.clientDemoLink),
+  //   all: ProjectList,
+  //   client: ProjectList.filter((project) => project.clientDemoLink),
+  // };
 
   // const handleFilterProjects = (label) => {
   //   const filtered = options[label.toLowerCase()];
