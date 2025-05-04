@@ -8,7 +8,7 @@ import { ProjectAnimation } from "../Assets/AssetsList";
 
 const Project = () => {
   const Labels = ["All", "Client", "Personal"];
-  const [activeLabel, setActiveLabel] = useState(Labels[0]);
+  // const [activeLabel, setActiveLabel] = useState(Labels[0]);
   const [projects, setProjects] = useState(ProjectList);
   const ref = useRef(null);
   const isInView = useInView(ref);
@@ -18,11 +18,11 @@ const Project = () => {
     client: ProjectList.filter((project) => project.clientDemoLink),
   };
 
-  const handleFilterProjects = (label) => {
-    const filtered = options[label.toLowerCase()];
-    setProjects(filtered);
-    setActiveLabel(label);
-  };
+  // const handleFilterProjects = (label) => {
+  //   const filtered = options[label.toLowerCase()];
+  //   setProjects(filtered);
+  //   setActiveLabel(label);
+  // };
 
   const variants = {
     hidden: { opacity: 0, y: 20 },
