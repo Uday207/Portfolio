@@ -9,7 +9,7 @@ import { ProjectAnimation } from "../Assets/AssetsList";
 const Project = () => {
   // const Labels = ["All", "Client", "Personal"];
   // const [activeLabel, setActiveLabel] = useState(Labels[0]);
-  const [projects, setProjects] = useState(ProjectList);
+  const [projects,] = useState(ProjectList);
   const ref = useRef(null);
   const isInView = useInView(ref);
   // // const options = {
