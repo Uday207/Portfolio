@@ -33,7 +33,7 @@ export const ProjectList = [
     image: IMDBLogo,
     skills: ["React,React Router,CSS,TMDB-API"],
     codeLink: "https://github.com/Uday207/imdb-clone",
-    demoLink: "https://6797a7d2cb7e96cfcbc1df68--imdb-uday207.netlify.app/",
+    demoLink: "https://imdb-uday207.netlify.app/",
     info: "As a web developer, I designed and built an IMDB clone website using React JS, HTML, and CSS. The website allows users to browse popular, top-rated, and upcoming movies, in addition to searching for specific movies. Users can also watch trailers, view cast information, and read reviews for each movie.To make this website possible, I utilized my skills [in web] development to create a functional and user-friendly application. Specifically, I made API calls to retrieve the necessary data and implemented various design features to enhance the user experience.",
   },
   {
@@ -42,7 +42,7 @@ export const ProjectList = [
     image: PortfolioLogo,
     skills: ["React,React Router, CSS"],
     codeLink: "https://github.com/Uday207/Portfolio",
-    demoLink: "https://6816d62f7c748689cb862ef9--uday207-portfolio.netlify.app/",
+    demoLink: "https://uday207-portfolio.netlify.app/",
     info: "I created a personal portfolio website using React JS, HTML, and CSS to showcase my projects, skills,[ and background.] The website serves as a platform for people to learn more about me and my professional accomplishments.My portfolio features information about my education, work experience, and technical skills,[ as well as a section highlighting my completed] projects. Overall, my portfolio serves as a valuable asset in advancing my career and achieving my professional goals.",
   },
   {
