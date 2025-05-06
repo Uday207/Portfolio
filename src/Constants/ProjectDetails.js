@@ -12,10 +12,10 @@ export const ProjectList = [
     key: 1,
     name: "Orebi-shopping(E-commerce)",
     image: ECmomLogo,
-    skills: ["ReactJS, Recharts, Material UI,MongoDB, NodeJS, ExpressJS"],
+    skills: ["ReactJS, Tailwind CSS, Framer Motion, React-Router-DOM"],
     codeLink: "https://github.com/Uday207/orebishopping",
     demoLink: "https://uday207-orebi-shopping.netlify.app/",
-    info: "The e-commerce web app is a feature-rich platform that provides user authentication and authorization using JWT. It has an admin dashboard for managing products, orders, users, and statistics. The platform includes a payment gateway and mail service, with features like Forgot Password and Reset Password. The platform also allows users to search for products, view product details and reviews, manage their cart, and track order history. Overall, it's a comprehensive platform that offers a seamless shopping experience for users.",
+    info: "The e-commerce web app is a responsive, user-friendly platform built with React.js and Tailwind CSS. It features a dynamic header with dropdown login options for Admin and Customer. Login and signup are handled via animated modals on the same page. Users can search and filter products, view details, add items to the cart, and manage favorites. Product cards include images, names, and action buttons. Framer Motion adds smooth animations for better user experience.",
     
   },
   {
@@ -41,8 +41,8 @@ export const ProjectList = [
     name: "Personal Portfolio",
     image: PortfolioLogo,
     skills: ["React,React Router, CSS"],
-    codeLink: "",
-    demoLink: "",
+    codeLink: "https://github.com/Uday207/Portfolio",
+    demoLink: "https://6816d62f7c748689cb862ef9--uday207-portfolio.netlify.app/",
     info: "I created a personal portfolio website using React JS, HTML, and CSS to showcase my projects, skills,[ and background.] The website serves as a platform for people to learn more about me and my professional accomplishments.My portfolio features information about my education, work experience, and technical skills,[ as well as a section highlighting my completed] projects. Overall, my portfolio serves as a valuable asset in advancing my career and achieving my professional goals.",
   },
   {
