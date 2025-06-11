@@ -5,7 +5,7 @@ const timelineItems = [
     date: <span className='text-lightText md:text-darkBg dark:text-lightText'> 2023 MAY - Present </span>,
     position: 'right',
     icon: <FaBriefcase />,
-    title: 'NOWON Technologies Private Limited',
+    title: 'Tanama Software Private Limited',
     subTitle: 'Software Developer',
     description: 'React JS, Redux Toolkit, React-Router, TailWindCSS, GraphQL, NextJS, MySQL'
   },
