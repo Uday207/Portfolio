@@ -2,11 +2,11 @@ import { FaBriefcase, FaGraduationCap, FaBuilding } from 'react-icons/fa';
 
 const timelineItems = [
   {
-    date: <span className='text-lightText md:text-darkBg dark:text-lightText'> 2022 Jun - Present </span>,
+    date: <span className='text-lightText md:text-darkBg dark:text-lightText'> 2022 May - Present </span>,
     position: 'right',
     icon: <FaBriefcase />,
-    title: 'Tanama Software Private Limited',
-    subTitle: 'Software Developer',
+    title: 'BMS Infosolutions Private Limited',
+    subTitle: 'Software Engineer',
     description: 'React JS, Redux Toolkit, React-Router, TailWindCSS, GraphQL, NextJS, MySQL'
   },
   {
