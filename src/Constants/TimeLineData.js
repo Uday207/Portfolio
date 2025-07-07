@@ -2,7 +2,7 @@ import { FaBriefcase, FaGraduationCap, FaBuilding } from 'react-icons/fa';
 
 const timelineItems = [
   {
-    date: <span className='text-lightText md:text-darkBg dark:text-lightText'> 2022 May - Present </span>,
+    date: <span className='text-lightText md:text-darkBg dark:text-lightText'> 2021 May - Present </span>,
     position: 'right',
     icon: <FaBriefcase />,
     title: 'BMS Infosolutions Private Limited',
