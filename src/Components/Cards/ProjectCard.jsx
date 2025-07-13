@@ -5,7 +5,7 @@ import Modal from "../Modal";
 const ProjectCard = ({ title, imgSrc, index, clientDemoLink, projectKey }) => {
   const [showModal, setShowModal] = useState(false);
 
-  console.log('abcd')
+  
 
   const ref = useRef(null);
   const isInView = useInView(ref, { once: true });

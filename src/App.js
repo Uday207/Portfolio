@@ -47,6 +47,7 @@ function App() {
           } outerScale={5}
 
         />
+        console.log("sdhgshgfwehjgfr");
         <Home />
         <Project />
         <Skills />
