@@ -2,12 +2,12 @@ import { FaBriefcase, FaGraduationCap, FaBuilding } from 'react-icons/fa';
 
 const timelineItems = [
   {
-    date: <span className='text-lightText md:text-darkBg dark:text-lightText'> 2021 May - Present </span>,
+    date: <span className='text-lightText md:text-darkBg dark:text-lightText'> 2021 Apr - 2023 Apr </span>,
     position: 'right',
     icon: <FaBriefcase />,
-    title: 'BMS Infosolutions Private Limited',
-    subTitle: 'Software Engineer',
-    description: 'React JS, Redux Toolkit, React-Router, TailWindCSS, GraphQL, NextJS, MySQL'
+    title: 'Border Security Force',
+    subTitle: 'GD Constable',
+    description: 'Served as a General Duty Constable in the Border Security Force (BSF), responsible for maintaining border security, performing patrol duties, and ensuring national safety. Developed strong discipline, teamwork, and crisis management skills during the tenure.'
   },
   {
     date: <span className='text-lightText md:text-darkBg dark:text-lightText'>2022 Aug - 2023 Aug</span>,
