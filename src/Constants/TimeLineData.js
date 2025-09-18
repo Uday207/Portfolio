@@ -7,7 +7,7 @@ const timelineItems = [
     icon: <FaBriefcase />,
     title: 'Frontend Developer',
     subTitle: 'Software Engineer',
-    description: 'Frontend Developer with 4.2+ Years Experience in Frontend Development,React.js,Nextjs,TypeScript,Redux,API Integration,GraphQL,Material UI,Tailwind CSS,Sass,Agile Methodology,Scrum Methodology,Cicd Methodology,Responsive Design,Context API,Jest.'
+    description: 'Frontend Developer with 4+ Years Experience in Frontend Development,React.js,Nextjs,TypeScript,Redux,API Integration,GraphQL,Material UI,Tailwind CSS,Sass,Agile Methodology,Scrum Methodology,Cicd Methodology,Responsive Design,Context API,Jest.'
   },
   {
     date: <span className='text-lightText md:text-darkBg dark:text-lightText'>2022 Aug - 2023 Aug</span>,
