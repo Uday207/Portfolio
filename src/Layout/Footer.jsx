@@ -23,7 +23,7 @@ const SocialIcons = () => {
       variants={iconVariants}
     >
       <motion.a
-        href="https://www.linkedin.com/in/chinthamanu-uday-kumar-9b899b262/"
+        href="https://www.linkedin.com/in/uday207/"
         target="_blank"
         rel="noopener noreferrer"
       >
