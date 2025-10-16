@@ -5,7 +5,7 @@ const timelineItems = [
     date: <span className='text-lightText md:text-darkBg dark:text-lightText'> 2021 Aug - Present </span>,
     position: 'right',
     icon: <FaBriefcase />,
-    title: 'Frontend Developer',
+    title: 'Frontend Developer at Wipro (Client Project) | BMS Infosolutions Pvt. Ltd. (Payroll)',
     subTitle: 'Software Engineer',
     description: 'Frontend Developer with 4+ Years Experience in Frontend Development,React.js,Nextjs,TypeScript,Redux,API Integration,GraphQL,Material UI,Tailwind CSS,Sass,Agile Methodology,Scrum Methodology,Cicd Methodology,Responsive Design,Context API,Jest.'
   },
